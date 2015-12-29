@@ -1,0 +1,17 @@
+#generic file rules
+obj
+bin
+*.user
+*.suo
+cbs.log
+.idea
+deploy
+
+#packages
+packages
+criteo-bin
+node_modules
+bower_components
+
+#generated files
+
